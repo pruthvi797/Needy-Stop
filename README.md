@@ -9,6 +9,9 @@
 ## **Description**  
 NeedyStop is a platform designed to simplify charitable giving by directly connecting donors with **verified charities**. The platform introduces innovative features such as **door-to-door donation collection**, ensuring convenience, transparency, and trust. Our goal is to make charitable giving more **accessible, reliable, and impactful** for those in need.  
 
+## **Live Link**  
+🌐 **Check out NeedyStop live:** [NeedyStop Live]([https://your-live-link.com](https://pruthvi797.github.io/Needy-Stop/))  
+
 ## **Features**  
 ✅ **User-Friendly Interface** – Easy navigation for donors and charities.  
 ✅ **Door-to-Door Donation Collection** – Hassle-free donation process.  
@@ -80,4 +83,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-This version enhances readability, improves structure, and maintains a **professional** and **engaging** tone. Let me know if you'd like any modifications! 🚀
+🔹 Replace **"[https://your-live-link.com](https://pruthvi797.github.io/Needy-Stop/)"** with your actual live link. Let me know if you need any modifications! 🚀
