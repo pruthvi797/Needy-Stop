@@ -77,4 +77,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-🔹 Replace **"[https://your-live-link.com](https://pruthvi797.github.io/Needy-Stop/)"** with your actual live link. Let me know if you need any modifications! 🚀
