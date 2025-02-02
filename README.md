@@ -51,11 +51,6 @@ pip install -r requirements.txt
   python app.py
   ```  
 
-## **Usage**  
-🚀 **Explore Verified Charities** – Browse a list of verified organizations.  
-🔑 **Sign Up / Log In** – Create an account to donate.  
-📦 **Schedule a Donation Pickup** – Arrange for door-to-door collection.  
-
 ## **Contributing**  
 We welcome contributions! Follow these steps:  
 
