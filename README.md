@@ -27,7 +27,7 @@ To run NeedyStop locally, follow these steps:
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/NeedyStop.git
+git clone [https://github.com/yourusername/NeedyStop](https://github.com/pruthvi797/Needy-Stop).git
 ```  
 
 2️⃣ **Navigate to the project directory**  
