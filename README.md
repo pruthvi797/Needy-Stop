@@ -32,7 +32,7 @@ git clone [https://github.com/pruthvi797/Needy-Stop].git
 
 2️⃣ **Navigate to the project directory**  
 ```bash
-cd NeedyStop
+cd Needy-Stop
 ```  
 
 3️⃣ **Install dependencies**  
